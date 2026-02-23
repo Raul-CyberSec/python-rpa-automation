@@ -1,0 +1,4 @@
+codigo,marca,tipo,categoria,preco_unitario,custo,obs
+001,Nike,Tenis,Esporte,299.90,150.00,Produto teste
+002,Apple,Eletronico,Premium,5000.00,3500.00,
+003,Adidas,Camiseta,Roupa,99.90,50.00,Edicao limitada
