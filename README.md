@@ -47,3 +47,16 @@ The main objective was to practice automation concepts and reduce repetitive man
 ## ⚠️ Disclaimer
 This project was developed for educational purposes only.
 All credentials and data used are fictitious.
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+3. Run:
+
+python main.py
